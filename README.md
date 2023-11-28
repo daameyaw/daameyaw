@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-**daameyaw/daameyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a landing page for a company that deals in furniture.
 - 🌱 I’m currently learning  I’m currently learning front-end development to build engaging and responsive user interfaces.
 - 👯 I’m looking to collaborate on projects that involve web development, and I'm open to connecting with fellow learners and developers.
