@@ -1,6 +1,5 @@
-### Hi there 👋
 
-Hi! My name is Stefan Topalović 😄
+Hi! My name is David Asante Ameyaw 😄
 ========================================================================================================================================
 
 🌍  I am a Front-End Developer based in Accra, Ghana.
