@@ -1,12 +1,23 @@
 ### Hi there 👋
 
-- 🔭 I’m currently offering Bsc.Computer Science.
-- 🌱 I’m currently learning  front-end development to build engaging and responsive user interfaces.
-- 👯 I’m looking to collaborate on projects that involve web development, and I'm open to connecting with fellow learners and developers.
-- 🤔 I’m looking for help with a lot of things
-- 💬 Ask me about my journey into front-end development or any questions you may have about web development.
-- 📫 How to reach me:  davidameyaw607@gmail.com
-- ⚡ Fun fact: The world's first football club is considered to be Sheffield Football Club, founded in 1857 in England.
+Hi! My name is Stefan Topalović 😄
+========================================================================================================================================
+
+🌍  I am a Front-End Developer based in Accra, Ghana.
+<br/>
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) 
+<br/>
+
+### Socials
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/stefan-topalovic-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=daameyaw&theme=carbonfox" height="220" alt="streak graph" />
