@@ -13,7 +13,7 @@ Hi! My name is David Asante Ameyaw 😄
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/stefan-topalovic-dev/">
+  <a href="https://www.linkedin.com/in/david-ameyaw123-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
