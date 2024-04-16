@@ -18,6 +18,7 @@ Hi! My name is David Asante Ameyaw 😄
   </a>
 </div>
 
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=daameyaw&theme=carbonfox" height="220" alt="streak graph" />
 </div><br>
